@@ -11,4 +11,4 @@ When reporting a bug, please include the following information:
 
 When requesting a core feature, unless it is an API request, please explain why this should be a core feature instead of a plugin.
 
-Features of the original Tribal Wars that are not available in TWLan have their own label (TW feature).
+Features of the original Tribal Wars that are not available in TWLan should be reported just like other bugs.
