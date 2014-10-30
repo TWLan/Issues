@@ -15,5 +15,5 @@ Features of the original Tribal Wars that are not available in TWLan should be r
 
 Feature | Reason
 ------- | ------
-Premium Points | Premium features are available to everyone anyway
+Premium Points | Premium features are available to everyone anyway.
 Account Manager | That's basically a bot playing for you then.
