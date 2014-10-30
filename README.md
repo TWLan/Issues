@@ -12,5 +12,8 @@ When reporting a bug, please include the following information:
 When requesting a core feature, unless it is an API request, please explain why this should be a core feature instead of a plugin.
 
 Features of the original Tribal Wars that are not available in TWLan should be reported just like other bugs, except if the are listed here as features we will not include:
-* Loot Assistant
-* Account Manager
+
+Feature | Reason
+------- | ------
+Premium Points | Premium features are available to everyone anyway
+Account Manager | That's basically a bot playing for you then.
