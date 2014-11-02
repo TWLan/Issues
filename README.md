@@ -1,6 +1,6 @@
 # TWLan/Issues
 
-This is the official issue tracker for the TWLan 2.0.
+This is the official issue tracker for TWLan 2.0.
 
 Before posting an issue, please check if the bug or feature you would like to address has been fixed or implemented in the newest version of TWLan. You save us a lot of time this way.
 
@@ -16,4 +16,4 @@ Features of the original Tribal Wars that are not available in TWLan should be r
 Feature | Reason
 ------- | ------
 Premium Points | Premium features are available to everyone anyway.
-Account Manager | That's basically a bot playing for you then.
+Account Manager | The account manager is basically a bot.
