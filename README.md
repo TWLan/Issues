@@ -4,6 +4,8 @@ This is the official issue tracker for TWLan 2.0.
 
 Before posting an issue, please check if the bug or feature you would like to address has been fixed or implemented in the newest version of TWLan. You save us a lot of time this way.
 
+[Click here to see the issue list](https://github.com/TWLan/Issues/issues).
+
 ### Bugs
 
 When reporting a bug, please include the following information:
