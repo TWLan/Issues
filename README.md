@@ -9,6 +9,7 @@ Before posting an issue, please check if the bug or feature you would like to ad
 ### Bugs
 
 When reporting a bug, please include the following information:
+
 * What exactly do you do?
 * What do you expect?
 * What do you get instead?
