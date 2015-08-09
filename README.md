@@ -1,6 +1,6 @@
 # TWLan/Issues
 
-**Languages: [ English ] [ [Deutsch](https://github.com/TWLan/Issues/blob/master/README.de.md) ]**
+**Language: [ English ] [ [Deutsch](https://github.com/TWLan/Issues/blob/master/README.de.md) ]**
 
 ---
 
